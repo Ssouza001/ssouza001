@@ -46,4 +46,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ssouza001/Ssouza001/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ssouza001/Ssouza001/output/pacman-contribution-graph.svg">
   
-![snake gif](https://github.com/ssouza/ssouza001/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ssouza001/ssouza001/blob/output/github-contribution-grid-snake.svg)
