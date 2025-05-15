@@ -1,7 +1,5 @@
 <h3 align="center">This is the place where I open-source code and break my head trying to solve problems! 🤯</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssouza001&label=Profile%20views&color=0e75b6&style=flat" alt="ssouza001" /> </p>
-
 
 - 🌱 I’m currently learning **Python for data analysis and machine learning**
 
